@@ -1,13 +1,10 @@
 # Titanic-ML-Disaster
-![alt text](dog_breed_classifier.jpg)
+![alt text](dog_breed_classifier.jpeg)
 ## Introduction
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.This data science project will give you introdcution on how to use Python to apply various machine learning techniques to the RMS Titanic dataset and predict which passenger would have survived the tragedy.
 
 ## Project Overview
 In this project, we would build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 ![Sample Output][image1]
